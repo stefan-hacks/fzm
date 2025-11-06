@@ -50,9 +50,6 @@ fzm ssh
 
 # Browse with tldr examples
 fzm -e
-
-# Open specific command with examples
-fzm --example curl
 ```
 
 ### Installation
