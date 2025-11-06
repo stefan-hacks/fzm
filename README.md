@@ -2,7 +2,6 @@
 
 A beautiful interactive terminal manpage viewer with fuzzy finding capabilities. fzm enhances your manpage browsing experience with intuitive search, rich previews, and seamless integration with other documentation tools.
 
-![Demo](https://via.placeholder.com/800x400.png?text=fzm+-+Fuzzy+Manpager+Demo)
 
 ## ✨ Features
 
