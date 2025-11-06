@@ -120,29 +120,6 @@ alias oman='/usr/bin/man'
 - **tldr**: Practical examples ([installation](https://github.com/tldr-pages/tldr))
 
 ## 🎯 Use Cases
-
-### For Developers
-```bash
-# Quickly find the right git command
-fzm git
-
-# Explore awk with practical examples
-fzm -e awk
-
-# Compare similar commands
-fzm 'docker' 'podman'
-```
-
-### For System Administrators
-```bash
-# Troubleshoot network issues
-fzm -e netstat ss ip
-
-# Manage processes
-fzm ps top htop
-
-# File operations
-fzm find grep sed
 ```
 
 ### For Learning
@@ -153,8 +130,6 @@ fzm
 # Learn with examples
 fzm -e
 
-# Deep dive into complex tools
-fzm tar rsync ssh
 ```
 
 ## 🔧 Advanced Configuration

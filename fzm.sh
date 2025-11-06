@@ -89,9 +89,7 @@ show_help() {
   echo
   echo -e "${BOLD}EXAMPLES:${RESET}"
   echo -e "    ${CYAN}fzm${RESET}                     Browse all manpages"
-  echo -e "    ${CYAN}fzm ssh${RESET}                 Quickly open ssh manpage"
   echo -e "    ${CYAN}fzm -e${RESET}                  Browse with tldr examples"
-  echo -e "    ${CYAN}fzm --example curl${RESET}      Open curl with examples"
   echo -e "    ${CYAN}fzm -h${RESET}                  Show this help"
   echo
   echo -e "${BOLD}ALIAS SETUP:${RESET}"
